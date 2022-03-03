@@ -6,7 +6,7 @@ A list of resources and initiatives to help people from Ukraine
 - [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
-  - [Freiburg](#freiburg) 
+  - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
 
 ## Housing
@@ -34,7 +34,7 @@ A list of resources and initiatives to help people from Ukraine
 
 ## Local support for refugees - Cities
 
-### Freiburg
+### Germany-Freiburg
 
 * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
 * [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
