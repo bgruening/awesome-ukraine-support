@@ -36,3 +36,4 @@ A list of resources and inititive to help the Ukraine
 ## Freiburg
 
 * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
+* [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
