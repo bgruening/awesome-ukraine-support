@@ -1,12 +1,13 @@
 # Awesome Ukraine Support
 
-A list of resources and inititive to help the Ukraine
+A list of resources and initiatives to help people from Ukraine
 
 - [For researchers and students](#for-researchers-and-students)
 - [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#freiburg) 
+  - [Czechia](#czechia)
 
 # Housing
 
@@ -37,3 +38,8 @@ A list of resources and inititive to help the Ukraine
 
 * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
 * [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
+
+## Czechia
+
+* [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
+* [List of critical contacts and description of the asylum process in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
