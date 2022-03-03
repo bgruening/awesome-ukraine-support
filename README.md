@@ -5,6 +5,8 @@ A list of resources and inititive to help the Ukraine
 - [For researchers and students](#for-researchers-and-students)
 - [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
+- [Local support for refugees - Cities](#local-support-for-refugees---cities)
+  - [Freiburg](#freiburg) 
 
 # Housing
 
@@ -28,3 +30,9 @@ A list of resources and inititive to help the Ukraine
 # University info pages
 
 * [University of Freiburg](https://uni-freiburg.de/university/topics-in-focus/the-university-of-freiburgs-position-on-the-war-in-ukraine/)
+
+# Local support for refugees - Cities
+
+## Freiburg
+
+* [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
