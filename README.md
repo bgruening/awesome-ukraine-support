@@ -5,6 +5,7 @@ A list of resources and initiatives to help people from Ukraine
 - [For researchers and students](#for-researchers-and-students)
 - [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
+- [Community support statements](#community-support-statements)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
@@ -31,6 +32,10 @@ A list of resources and initiatives to help people from Ukraine
 ## University info pages
 
 * [University of Freiburg](https://uni-freiburg.de/university/topics-in-focus/the-university-of-freiburgs-position-on-the-war-in-ukraine/)
+
+## Community support statements
+
+* [Chemistry](https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100/i9)
 
 ## Local support for refugees - Cities
 
