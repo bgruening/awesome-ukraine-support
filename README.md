@@ -43,8 +43,14 @@ A list of resources and initiatives to help people from Ukraine
 
 * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
 * [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
+* Call for donations from the ["Ukrainische Gesellschaft in Freiburg"](http://www.dug-freiburg.de)
+* [Wesna e.V.](https://wesna-verein.de) organising transport, support and housing for the Ukrainian refugees
+* https://seinlaedele.de - Second-hand shop, collects food
 
 ### Czechia
 
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of critical contacts and description of the asylum process in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
+
+
+
