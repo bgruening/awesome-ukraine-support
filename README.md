@@ -52,7 +52,7 @@ A list of resources and initiatives to help people from Ukraine
 
 * [Offical website with a todo list after arrival in Czechia](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d). In Ukrainian.
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
-* [List of critical contacts and description of the asylum process in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
+* [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
 ### Switzerland-Basel
 
