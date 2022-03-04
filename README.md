@@ -9,6 +9,7 @@ A list of resources and initiatives to help people from Ukraine
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
+  - [Basel](#switzerland-basel)
 
 ## Housing
 
@@ -52,5 +53,7 @@ A list of resources and initiatives to help people from Ukraine
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of critical contacts and description of the asylum process in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
+### Switzerland-Basel
 
+* [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
 
