@@ -32,6 +32,7 @@ A list of resources and initiatives to help people from Ukraine
 * https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
 * https://www.embo.org/solidarity-with-ukraine/ list of life-science labs offering support (jobs, help with accomodation, ...) for Ukrainian scientists
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
+* [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 
 ## Research funding
 
