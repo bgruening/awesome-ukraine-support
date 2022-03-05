@@ -43,7 +43,7 @@ A list of resources and initiatives to help people from Ukraine
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
 * [Announcement from the Czech Academy of Sciences](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
 * [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
-* [NF Neuron grant](https://www.nfneuron.cz/en) for Ukrainian scientists to study in the Czech republic
+* [NF Neuron grant](https://www.nfneuron.cz/en) starter grants (8000 EUR) for Ukrainian scientists in the Czech republic
 * [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
