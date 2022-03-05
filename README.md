@@ -63,13 +63,19 @@ A list of resources and initiatives to help people from Ukraine
 
 ## Local support for refugees - Cities
 
-### Germany-Freiburg
+### Germany
 
-* [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
-* [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
-* Call for donations from the ["Ukrainische Gesellschaft in Freiburg"](http://www.dug-freiburg.de)
-* [Wesna e.V.](https://wesna-verein.de) organising transport, support and housing for the Ukrainian refugees
-* https://seinlaedele.de - Second-hand shop, collects food
+  #### Freiburg
+
+  * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
+  * [Philipp-Schwartz-Initiative for Threatened Researchers: Extended Deadline for Ukrainian Researchers ](https://www.international.uni-freiburg.de/en/calls/institutes-and-faculties/philipp-schwartz?set_language=en)
+  * Call for donations from the ["Ukrainische Gesellschaft in Freiburg"](http://www.dug-freiburg.de)
+  * [Wesna e.V.](https://wesna-verein.de) organising transport, support and housing for the Ukrainian refugees
+  * https://seinlaedele.de - Second-hand shop, collects food
+
+  #### Munich
+
+  * [TUM-IAS Fellowships](https://www.ias.tum.de/ias/news/news-single-view/article/tum-ias-fellowships-for-researchers-from-the-ukraine/)
 
 ### Czechia
 
