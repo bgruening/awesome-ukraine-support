@@ -32,14 +32,18 @@ A list of resources and initiatives to help people from Ukraine
 * [EMBO](https://www.embo.org/solidarity-with-ukraine) list of life-science labs offering support (jobs, help with accomodation, ...)
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
-* [Harvard University’s Scholars at Risk](Harvard University’s Scholars at Risk)
-* French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm) 
 
 ## Research funding
 
 * [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
+* [Harvard University’s Scholars at Risk](Harvard University’s Scholars at Risk)
+* French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm)
+* [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
+* [Announcement from the Czech Academy of Sciences](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
+* [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
+* [NF Neuron grant](https://www.nfneuron.cz/en) for Ukrainian scientists to study in the Czech republic
 
 ## Demonstrations
 
