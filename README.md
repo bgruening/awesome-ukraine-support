@@ -19,6 +19,7 @@ A list of resources and initiatives to help people from Ukraine
 
 * German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
+* [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
 ## For researchers and students
 
@@ -64,7 +65,7 @@ A list of resources and initiatives to help people from Ukraine
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
-### Switzerland-Basel
+### Switzerland
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
-
+* [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
