@@ -9,7 +9,7 @@ A list of resources and initiatives to help people from Ukraine
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
-  - [Basel](#switzerland-basel)
+  - [Switzerland](#switzerland)
 
 ## Housing
 
@@ -24,6 +24,7 @@ A list of resources and initiatives to help people from Ukraine
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
 * German Ukraine societies collect donations under www.lobetal.de
 * List of local donation
+* [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
 ## For researchers and students
 
@@ -32,17 +33,32 @@ A list of resources and initiatives to help people from Ukraine
 * https://www.embo.org/solidarity-with-ukraine/ list of life-science labs offering support (jobs, help with accomodation, ...) for Ukrainian scientists
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
 
+## Research funding
+
+* [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
+* [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
+* [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
+
 ## Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
 
+## Resource pages
+
+* https://www.standwithukraine.how (Stanford Ukrainians)
+
 ## University info pages
 
 * [University of Freiburg](https://uni-freiburg.de/university/topics-in-focus/the-university-of-freiburgs-position-on-the-war-in-ukraine/)
+* [TU Dresden](https://tu-dresden.de/tu-dresden/internationales/we-care/ukraine)
+* [HTW Dresden](https://www.htw-dresden.de/news/hilfe-fuer-die-menschen-aus-der-ukraine)
+* [Humboldt University of Berlin](https://www.hu-berlin.de/en/press-portal/topics/humboldt-universitat-stands-with-ukraine)
 
 ## Community support statements
 
 * [Chemistry](https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100/i9)
+* [American Physical Society](https://www.aps.org/about/governance/letters/ukraine.cfm)
+* [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 
 ## Local support for refugees - Cities
 
@@ -60,7 +76,7 @@ A list of resources and initiatives to help people from Ukraine
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
-### Switzerland-Basel
+### Switzerland
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
-
+* [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
