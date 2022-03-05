@@ -32,6 +32,8 @@ A list of resources and initiatives to help people from Ukraine
 * [EMBO](https://www.embo.org/solidarity-with-ukraine) list of life-science labs offering support (jobs, help with accomodation, ...)
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
+* [Harvard University’s Scholars at Risk](Harvard University’s Scholars at Risk)
+* French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm) 
 
 ## Research funding
 
