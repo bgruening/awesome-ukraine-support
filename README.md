@@ -16,7 +16,6 @@ A list of resources and initiatives to help people from Ukraine
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
 * private Vermittlung www.unterkunft-ukraine.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
-* 
 
 ## Aid organisations
 
@@ -54,6 +53,7 @@ A list of resources and initiatives to help people from Ukraine
 * [TU Dresden](https://tu-dresden.de/tu-dresden/internationales/we-care/ukraine)
 * [HTW Dresden](https://www.htw-dresden.de/news/hilfe-fuer-die-menschen-aus-der-ukraine)
 * [Humboldt University of Berlin](https://www.hu-berlin.de/en/press-portal/topics/humboldt-universitat-stands-with-ukraine)
+* [Inspireurope partners](https://www.maynoothuniversity.ie/sites/default/files/filefield_paths/Ukraine-%20Call%20from%20Inspireurope%20to%20European%20Governments%20%26%20EU%20Institutions.pdf)
 
 ## Community support statements
 
