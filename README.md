@@ -13,12 +13,17 @@ A list of resources and initiatives to help people from Ukraine
 
 ## Housing
 
-* [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees 
+* [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
+* private Vermittlung www.unterkunft-ukraine.de
+* [Europe Network for refugees](https://www.warhelp.eu/places)
+* 
 
 ## Aid organisations
 
 * German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
+* German Ukraine societies collect donations under www.lobetal.de
+* List of local donation
 
 ## For researchers and students
 
