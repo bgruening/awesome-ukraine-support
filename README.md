@@ -7,7 +7,7 @@ A list of resources and initiatives to help people from Ukraine
 - [University info pages](#university-info-pages)
 - [Community support statements](#community-support-statements)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
-  - [Freiburg](#germany-freiburg) 
+  - [Freiburg](#germany) 
   - [Czechia](#czechia)
   - [Switzerland](#switzerland)
 
