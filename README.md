@@ -9,7 +9,7 @@ A list of resources and initiatives to help people from Ukraine
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
-  - [Basel](#switzerland-basel)
+  - [Switzerland](#switzerland)
 
 ## Housing
 
