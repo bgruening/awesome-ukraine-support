@@ -57,6 +57,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
+* [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
 
 ## Заяви на підтримку | Support statements
 
