@@ -23,7 +23,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.unterkunft-ukraine.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
 
-## Aid organisations
+## Aid organisations | Організації допомоги
 
 * German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
@@ -31,7 +31,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * List of local donation
 * [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
-## For researchers and students
+## For researchers and students |  Для науковців та студентів
 
 * https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
 * https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
@@ -39,7 +39,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 
-## Research funding
+## Research funding | Фінансова допомога
 
 * [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
@@ -54,8 +54,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 
-## Resource pages
-
+## Resource pages 
 * https://www.standwithukraine.how (Stanford Ukrainians)
 
 ## University info pages
