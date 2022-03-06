@@ -23,7 +23,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.unterkunft-ukraine.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
 
-## Aid organisations | Організації допомоги
+## Організації допомоги | Aid organisations
 
 * German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
@@ -31,7 +31,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * List of local donation
 * [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
-## For researchers and students |  Для науковців та студентів
+## Для науковців та студентів | For researchers and students 
 
 * https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
 * https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
@@ -39,7 +39,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 
-## Research funding | Фінансова допомога
+## Фінансова допомога | Research funding 
 
 * [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
@@ -54,26 +54,20 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 
-## Resource pages 
-* https://www.standwithukraine.how (Stanford Ukrainians)
-
-## University info pages
+## Заяви на підтримку | Support statements
 
 * [University of Freiburg](https://uni-freiburg.de/university/topics-in-focus/the-university-of-freiburgs-position-on-the-war-in-ukraine/)
 * [TU Dresden](https://tu-dresden.de/tu-dresden/internationales/we-care/ukraine)
 * [HTW Dresden](https://www.htw-dresden.de/news/hilfe-fuer-die-menschen-aus-der-ukraine)
 * [Humboldt University of Berlin](https://www.hu-berlin.de/en/press-portal/topics/humboldt-universitat-stands-with-ukraine)
 * [Inspireurope partners](https://www.maynoothuniversity.ie/sites/default/files/filefield_paths/Ukraine-%20Call%20from%20Inspireurope%20to%20European%20Governments%20%26%20EU%20Institutions.pdf)
-
-## Community support statements
-
 * [Chemistry](https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100/i9)
 * [American Physical Society](https://www.aps.org/about/governance/letters/ukraine.cfm)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 
-## Local support for refugees - Cities
+## Місцева підтримка біженців | Local support for refugees
 
-### Germany
+###  Німеччина | Germany
 
   #### Freiburg
 
@@ -87,18 +81,21 @@ This site contains information about resources for Ukrainian researchers and stu
 
   * [TUM-IAS Fellowships](https://www.ias.tum.de/ias/news/news-single-view/article/tum-ias-fellowships-for-researchers-from-the-ukraine/)
 
-### Czechia
+###  Чехія | Czechia 
 
 * [Offical website with a todo list after arrival in Czechia](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d). In Ukrainian.
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
-### Switzerland
+### Швейцарія | Switzerland
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
 * [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
 
-## Demonstrations
+## Демонстрації | Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
+
+## Інші ресурси | Other resources 
+* https://www.standwithukraine.how (Stanford Ukrainians)
 
