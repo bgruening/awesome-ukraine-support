@@ -4,6 +4,7 @@ This site contains information about resources for Ukrainian researchers and stu
 # Support for ukrainian researchers and students
 Цей сайт містить інформацию щодо ресурсів для украïньских вченых та студентів
 
+<!--
 
 - [For researchers and students | Для науковців та студентів](#for-researchers-and-students)
 - [University info pages](#university-info-pages)
@@ -13,7 +14,8 @@ This site contains information about resources for Ukrainian researchers and stu
   - [Czechia](#czechia)
   - [Switzerland](#switzerland)
 - [Demonstrations](#demonstrations)
-- 
+
+--> 
 ## Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
