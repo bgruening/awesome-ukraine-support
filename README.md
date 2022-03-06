@@ -19,7 +19,7 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ## Для науковців та студентів | For researchers and students 
 
-The following links prov
+Нижче наведено список лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
 
 * https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
 * https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
