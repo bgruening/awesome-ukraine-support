@@ -17,14 +17,15 @@ This site contains information about resources for Ukrainian researchers and stu
 
 --> 
 
-## Для науковців та студентів | For researchers and students 
+## Позиціï для науковців та студентів | Positions for researchers and students 
 
-Нижче наведено список лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
+Нижче наведено списки лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
 
-* https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
-* https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
-* [EMBO](https://www.embo.org/solidarity-with-ukraine) list of life-science labs offering support (jobs, help with accomodation, ...)
-* https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
+* https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
+* https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entried can be added directly from the webpage)
+* https://scienceforukraine.eu - maintained by the "SciencyForUkraine" initiative (contact infortmation is [here](https://scienceforukraine.eu/team.html))
+
+[^1]: https://bit.ly/ua-form
 
 ## Житло | Housing
 
