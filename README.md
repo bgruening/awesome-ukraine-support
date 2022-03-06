@@ -17,6 +17,15 @@ This site contains information about resources for Ukrainian researchers and stu
 
 --> 
 
+## Для науковців та студентів | For researchers and students 
+
+The following links prov
+
+* https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
+* https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
+* [EMBO](https://www.embo.org/solidarity-with-ukraine) list of life-science labs offering support (jobs, help with accomodation, ...)
+* https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
+
 ## Житло | Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
@@ -30,14 +39,6 @@ This site contains information about resources for Ukrainian researchers and stu
 * German Ukraine societies collect donations under www.lobetal.de
 * List of local donation
 * [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
-
-## Для науковців та студентів | For researchers and students 
-
-* https://bit.ly/ua-form scientists worldwide can offer help for Ukrainian scientists
-* https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
-* [EMBO](https://www.embo.org/solidarity-with-ukraine) list of life-science labs offering support (jobs, help with accomodation, ...)
-* https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
-* [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 
 ## Фінансова допомога | Research funding 
 
@@ -64,6 +65,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Chemistry](https://cen.acs.org/people/Chemists-respond-invasion-Ukraine/100/i9)
 * [American Physical Society](https://www.aps.org/about/governance/letters/ukraine.cfm)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
+* [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 
 ## Місцева підтримка біженців | Local support for refugees
 
