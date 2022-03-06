@@ -22,7 +22,7 @@ This site contains information about resources for Ukrainian researchers and stu
 Нижче наведено списки лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
 
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
-* https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entried can be added directly from the webpage)
+* https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "SciencyForUkraine" initiative (contact infortmation is [here](https://scienceforukraine.eu/team.html))
 
 [^1]: https://bit.ly/ua-form
