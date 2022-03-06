@@ -6,14 +6,14 @@ This site contains information about resources for Ukrainian researchers and stu
 
 
 - [For researchers and students | Для науковців та студентів](#for-researchers-and-students)
-- [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
 - [Community support statements](#community-support-statements)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany) 
   - [Czechia](#czechia)
   - [Switzerland](#switzerland)
-
+- [Demonstrations](#demonstrations)
+- 
 ## Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
@@ -50,10 +50,6 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
-
-## Demonstrations
-
-* https://standwithukraine.live you can find out where peace demonstrations are taking place.
 
 ## Resource pages
 
@@ -99,3 +95,8 @@ This site contains information about resources for Ukrainian researchers and stu
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
 * [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
+
+## Demonstrations
+
+* https://standwithukraine.live you can find out where peace demonstrations are taking place.
+
