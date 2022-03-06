@@ -1,4 +1,4 @@
-# Ресурси для украïньских вченых та студентів
+# Ресурси для украïньских вчених та студентів
 This site contains information about resources for Ukrainian researchers and students. 
 
 # Support for ukrainian researchers and students
