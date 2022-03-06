@@ -5,7 +5,7 @@ This site contains information about resources for Ukrainian researchers and stu
 Цей сайт містить інформацию щодо ресурсів для украïньских вченых та студентів
 
 
-- [For researchers and students](#for-researchers-and-students)
+- [For researchers and students | Для науковців та студентів](#for-researchers-and-students)
 - [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
 - [Community support statements](#community-support-statements)
