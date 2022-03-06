@@ -37,7 +37,9 @@ This site contains information about resources for Ukrainian researchers and stu
 * German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
 * German Ukraine societies collect donations under www.lobetal.de
+* https://www.swisshelpukraine.ch
 * List of local donation
+  * [Technical University of Munich](https://www.swisshelpukraine.ch)
 * [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
 ## Фінансова допомога | Research funding 
@@ -67,7 +69,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
 * [Max Planck Society](https://www.mpg.de/aufruf-zum-frieden)
-* 
+* [Pharmaceutical industry](https://www.efpia.eu/news-events/the-efpia-view/efpia-news/pharmaceutical-industry-response-to-the-war-in-ukraine/)
+
 ## Місцева підтримка біженців | Local support for refugees
 
 ###  Німеччина | Germany
