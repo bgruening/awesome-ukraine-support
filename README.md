@@ -66,7 +66,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * [American Physical Society](https://www.aps.org/about/governance/letters/ukraine.cfm)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
-
+* [Max Planck Society](https://www.mpg.de/aufruf-zum-frieden)
+* 
 ## Місцева підтримка біженців | Local support for refugees
 
 ###  Німеччина | Germany
