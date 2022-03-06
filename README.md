@@ -1,6 +1,10 @@
-# Awesome Ukraine Support
+# Ресурси для украïньских вченых та студентів
+# Support for ukrainian researchers and students
+# Ресурсы для украинских ученых и студентов
 
-A list of resources and initiatives to help people from Ukraine
+This site contains information about resources for Ukrainian researchers and students. 
+Цей сайт містить інформацию щодо ресурсів для украïньских вченых та студентів
+Этот сайт содержит информацию о ресурсах для украинских ученых и студентов
 
 - [For researchers and students](#for-researchers-and-students)
 - [Demonstrations](#demonstrations)
