@@ -91,6 +91,7 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ###  Чехія | Czechia 
 
+* [Map with all Ukraine Assistance Contact Centers in Czechia](https://en.mapy.cz/zakladni?x=15.0754564&y=49.8057296&z=8&q=Ukraine%20Assistance%20Contact%20Centre&cat=1)
 * [Offical website with a todo list after arrival in Czechia](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d). In Ukrainian.
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
