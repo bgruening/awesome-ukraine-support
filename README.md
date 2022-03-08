@@ -55,7 +55,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
 * [NF Neuron grant](https://www.nfneuron.cz/en) starter grants (8000 EUR) for Ukrainian scientists in the Czech republic
 * [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
-* [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
+* [Swiss National Science Foundation](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
 
