@@ -27,6 +27,15 @@ This site contains information about resources for Ukrainian researchers and stu
 
 [^1]: https://bit.ly/ua-form
 
+France
+* [French Neuroscience Society](https://www.neurosciences.asso.fr/mespages/offres-de-stage-ou-emploi/)
+* Cnrs and Inserm alliance in Neuroscience
+  * [PhD positions](https://itneuro.aviesan.fr/phd.html) for 
+  * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
+  * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
+* [Association Bernard Gregory](https://www.abg.asso.fr/en/)
+
+
 ## Житло | Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
@@ -50,6 +59,11 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
 * [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
 * French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm)
+ 
+  It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
+  
+  Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
+
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
 * [Announcement from the Czech Academy of Sciences](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
 * [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
@@ -58,6 +72,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Swiss National Science Foundation](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine)
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
+
+
 
 ## Заяви на підтримку | Support statements
 
@@ -101,6 +117,38 @@ This site contains information about resources for Ukrainian researchers and stu
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
 * [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
 * [Canton of Basel-Stadt](https://www.bs.ch/nm/2022-krieg-in-der-ukraine--aufnahme-von-fluechtlingen-in-basel-stadt-wsu.html) (in German)
+
+### France
+
+* [RESOME](https://www.resome.org/) is a french network of collective of students, teachers, individuals, associations and informal groups, acting side by side with refugees and migrants to foster access to higher education. Email: [contact[a]resome.org](mailto:contact@resome.org) and [Facebook](https://www.facebook.com/resomefr)
+* [Euraxess](https://www.euraxess.fr/) has helpdesks all over France for foreign students & scientists: entry procedures, social security, legal issues, accommodation, postdoctoral positions and research jobs...
+* Association Femmes & Sciences, specific contact for female scientists: [soutenir.ukrainiennes@femmesetsciences.fr](mailto:soutenir.ukrainiennes@femmesetsciences.fr)
+* [Residence permit, access to employment and social welfare are granted to anyone arriving from Ukraine, as announced by the European Union](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1469)
+* [Free train for anyone arriving from Ukraine (TGV, Intercités, TER, and international trains)](https://www.20minutes.fr/societe/3245079-20220302-guerre-ukraine-
+sncf-etend-gratuite-trains-refugies-ter)
+  
+  You only need an ID, or the document delivered by the German railway company DeutschBahn 
+
+* [Information on how to apply for asylum](https://www.immigration.interieur.gouv.fr/Asile/Guide-du-demandeur-d-asile-en-France)
+* For Ukraine nationals, embassy and consular services: [contact details on their website](https://ua.ambafrance.org/Ambassade-et-Consulats-d-Ukraine-en-France)  or on their [Facebook page](https://www.facebook.com/ambassadeukraineenfrance) is the website is down
+* [France Terre d'Asile](https://www.france-terre-asile.org/) (contact points all over France) offer to asylum seekers
+* [Avocats sans frontieres (lawyers without borders)](https://www.avocatssansfrontieres-france.org/en/qui-sommes-nous/l-association/) helps with all legal aspects
+* [La Cimade](https://www.lacimade.org) offers help and legal support to refugees and displaced people in France
+
+  ### Paris & Paris area
+  
+  * For those arriving in Paris: the welcome desk for people arriving from Ukraine, organized by France Terre d'Asile, is 39 rue des Cheminots, Paris 18e
+  * [A list of other contact points and useful info and resources (provided by city mayor)](https://www.paris.fr/pages/paris-se-mobilise-pour-l-ukraine-20504)
+    
+    It includes free medical and psychological help for children and families; free meals in kindergarten and schools
+
+  * [Main entry point for students & academics: welcome desk Paris](https://access.ciup.fr/en/)
+  * [Support to students in exile at Ecole Normale Supérieure](https://enspei.wordpress.com/): french courses, social activities, help to find the right
+university
+
+  ### Lyon
+
+  * [Useful links (consulate, associations) from the City mayor](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
 
 ## Демонстрації | Demonstrations
 
