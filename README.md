@@ -74,7 +74,6 @@ France
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
 
 
-
 ## Заяви на підтримку | Support statements
 
 * [University of Freiburg](https://uni-freiburg.de/university/topics-in-focus/the-university-of-freiburgs-position-on-the-war-in-ukraine/)
@@ -124,8 +123,7 @@ France
 * [Euraxess](https://www.euraxess.fr/) has helpdesks all over France for foreign students & scientists: entry procedures, social security, legal issues, accommodation, postdoctoral positions and research jobs...
 * Association Femmes & Sciences, specific contact for female scientists: [soutenir.ukrainiennes@femmesetsciences.fr](mailto:soutenir.ukrainiennes@femmesetsciences.fr)
 * [Residence permit, access to employment and social welfare are granted to anyone arriving from Ukraine, as announced by the European Union](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1469)
-* [Free train for anyone arriving from Ukraine (TGV, Intercités, TER, and international trains)](https://www.20minutes.fr/societe/3245079-20220302-guerre-ukraine-
-sncf-etend-gratuite-trains-refugies-ter)
+* [Free train for anyone arriving from Ukraine](https://www.20minutes.fr/societe/3245079-20220302-guerre-ukraine-sncf-etend-gratuite-trains-refugies-ter)
   
   You only need an ID, or the document delivered by the German railway company DeutschBahn 
 
@@ -138,7 +136,7 @@ sncf-etend-gratuite-trains-refugies-ter)
   #### Paris & Paris area
   
   * For those arriving in Paris: the welcome desk for people arriving from Ukraine, organized by France Terre d'Asile, is 39 rue des Cheminots, Paris 18e
-  * [A list of other contact points and useful info and resources (provided by city mayor)](https://www.paris.fr/pages/paris-se-mobilise-pour-l-ukraine-20504)
+  * [A list of other contact points and useful info and resources](https://www.paris.fr/pages/paris-se-mobilise-pour-l-ukraine-20504)
     
     It includes free medical and psychological help for children and families; free meals in kindergarten and schools
 
