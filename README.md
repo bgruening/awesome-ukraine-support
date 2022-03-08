@@ -135,7 +135,7 @@ sncf-etend-gratuite-trains-refugies-ter)
 * [Avocats sans frontieres (lawyers without borders)](https://www.avocatssansfrontieres-france.org/en/qui-sommes-nous/l-association/) helps with all legal aspects
 * [La Cimade](https://www.lacimade.org) offers help and legal support to refugees and displaced people in France
 
-  ### Paris & Paris area
+  #### Paris & Paris area
   
   * For those arriving in Paris: the welcome desk for people arriving from Ukraine, organized by France Terre d'Asile, is 39 rue des Cheminots, Paris 18e
   * [A list of other contact points and useful info and resources (provided by city mayor)](https://www.paris.fr/pages/paris-se-mobilise-pour-l-ukraine-20504)
@@ -146,7 +146,7 @@ sncf-etend-gratuite-trains-refugies-ter)
   * [Support to students in exile at Ecole Normale Supérieure](https://enspei.wordpress.com/): french courses, social activities, help to find the right
 university
 
-  ### Lyon
+  #### Lyon
 
   * [Useful links (consulate, associations) from the City mayor](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
 
