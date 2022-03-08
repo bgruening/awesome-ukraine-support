@@ -100,6 +100,7 @@ This site contains information about resources for Ukrainian researchers and stu
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
 * [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
+* [Canton of Basel-Stadt](https://www.bs.ch/nm/2022-krieg-in-der-ukraine--aufnahme-von-fluechtlingen-in-basel-stadt-wsu.html) (in German)
 
 ## Демонстрації | Demonstrations
 
