@@ -77,6 +77,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
 * [Denmark Aarhus University - Ukraine Research Fellowships](https://aias.au.dk/opportunities-at-aias/auff-ukraine-fellowships)
+* [Swedish Foundation for Strategic Research - Individual grants for Ukrainian scientists](https://strategiska.se/en/call-for-proposal/ssf-individual-grants-for-ukrainian-scientists-2022/)
 
 
 ## Заяви на підтримку | Support statements
