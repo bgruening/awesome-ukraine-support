@@ -21,15 +21,18 @@ This site contains information about resources for Ukrainian researchers and stu
 
 Нижче наведено списки лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
 
+### Глобальні ресурси | Global resources
+
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "SciencyForUkraine" initiative (contact infortmation is [here](https://scienceforukraine.eu/team.html))
 
 [^1]: https://bit.ly/ua-form
 
-France
+### Франція | France
+
 * [French Neuroscience Society](https://www.neurosciences.asso.fr/mespages/offres-de-stage-ou-emploi/)
-* Cnrs and Inserm alliance in Neuroscience
+* CNRS and Inserm alliance in Neuroscience
   * [PhD positions](https://itneuro.aviesan.fr/phd.html) for 
   * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
   * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
