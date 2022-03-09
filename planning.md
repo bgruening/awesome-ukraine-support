@@ -25,3 +25,4 @@ Eliminate the confusion. We need to provide clear and concise information for tw
 ### Going forward 
 
 - We should think of turning this into a general framework for helping all scientists affected by wars and other crises
+- Extending to non academics? We (Anton, Bjoern) had some questions to extend this to industry partners as well.
