@@ -1,4 +1,4 @@
-To do's for effcetive outreach and coordination betwen https://bit.ly/ua-table and https://scienceforukraine.eu/
+To do's for effcetive outreach and coordination betwen https://bit.ly/ua-table, https://scienceforukraine.eu/, and https://www.embo.org/solidarity-with-ukraine/
 
 ## Topics and minutes for Mar 9, 2022
 
