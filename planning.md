@@ -15,7 +15,7 @@ Eliminate the confusion. We need to provide clear and concise information for tw
 ### Technical issues
 
  - We (@nekrut and @bgruening) think that the best mechanism to run such as page is through GutHub (e.g., like this one). This makes collaborative contributions much easier. Anyone can add information to this page via pull request mechanism. 
- - We need to create a series of mailing lists: (1) containing e-mails of all labs that sighed up and (2) internal list for this group.
+ - We need to create a series of mailing lists: (1) containing e-mails of all labs that sighed up and (2) internal list for this group. Perhaps a better option is a series of slack or matrix rooms.
 
 ### Supporting materials
 
