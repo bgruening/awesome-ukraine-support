@@ -154,6 +154,12 @@ university
 
   * [Useful links (consulate, associations) from the City mayor](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
 
+### Молдавії | Moldova
+  * [All the relevant information for entering and staying in Moldova](https://dopomoga.gov.md/)
+
+### Румунія | Romania
+  * [A comprehensive online resource for humanitarian help available in Romania to refugees from Ukraine](https://dopomoha.ro/uk)
+
 ## Демонстрації | Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
