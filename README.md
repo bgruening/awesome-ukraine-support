@@ -116,6 +116,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Offical website with a todo list after arrival in Czechia](https://www.mvcr.cz/clanek/informace-pro-obcany-ukrajiny.aspx?q=Y2hudW09Mg%3d%3d). In Ukrainian.
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
+* [Hub for Ukrainian scientists in Czechia](https://www.studyin.cz/ukraine/570-dopomoga-ukrainskim-vcenim-help-for-ukrainian-scientists/)
 
   #### Brno
   
