@@ -37,7 +37,7 @@ This site contains information about resources for Ukrainian researchers and stu
   * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
   * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
 * [Association Bernard Gregory](https://www.abg.asso.fr/en/)
-
+* [Association Femmes&Sciences](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes) - housing, PhD, postdoc, master positions and work in industry in various cities in France (you can address us in English, Russian, or French)
 
 ## Житло | Housing
 
