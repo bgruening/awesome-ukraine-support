@@ -117,6 +117,10 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 
+  #### Brno
+  
+  * [Info hub for refugees in Brno](https://ukrajina.brno.cz/)
+
 ### Швейцарія | Switzerland
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
