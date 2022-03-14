@@ -63,11 +63,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
 * [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
 * French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm)
- 
-  It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
-  
-  Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
-
+  - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
+  - Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
 * [Announcement from the Czech Academy of Sciences](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
 * [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
@@ -78,6 +75,11 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
 * [Denmark Aarhus University - Ukraine Research Fellowships](https://aias.au.dk/opportunities-at-aias/auff-ukraine-fellowships)
 * [Swedish Foundation for Strategic Research - Individual grants for Ukrainian scientists](https://strategiska.se/en/call-for-proposal/ssf-individual-grants-for-ukrainian-scientists-2022/)
+* [Weizmann Institute of Science, Feinberg Graduate School](https://www.weizmann.ac.il/feinberg/supported-visiting-students-and-postdocs-program-ukrainians)
+* [Swiss Society for Crystallography, Scholarship for Ukrainian students](https://swiss-crystallography.ch/en/uuid/i/201a21c0-e302-59da-b9b5-f05ec595fbf5-Scholarship_for_Ukranian_students)
+* [Aarhus University of Advanced Studies, Ukraine research fellowships](https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias)
+* [Українська Наукова Стипендійна Програма Дрезден | Ukraine Scientific Scholarship Program Dresden](https://www.ifw-dresden.de/de/career/job-offers)
+* [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
 
 
 ## Заяви на підтримку | Support statements
@@ -91,8 +93,15 @@ This site contains information about resources for Ukrainian researchers and stu
 * [American Physical Society](https://www.aps.org/about/governance/letters/ukraine.cfm)
 * [Swiss National Science Foundation](https://www.snf.ch/en/K3nRntj2wgma8Zjo/news/snsf-supports-ukrainian-researchers)
 * [Scholars at risk](https://www.scholarsatrisk.org/2022/03/solidarity-with-the-people-of-ukraine-and-ukrainian-higher-education/)
+  - [Scholars at Risk, Switzerland Section](https://www.scholarsatrisk.org/wp-content/uploads/2017/12/Information_for_prospective_SAR_scholars_in_Switzerland-6.pdf)
 * [Max Planck Society](https://www.mpg.de/aufruf-zum-frieden)
 * [Pharmaceutical industry](https://www.efpia.eu/news-events/the-efpia-view/efpia-news/pharmaceutical-industry-response-to-the-war-in-ukraine/)
+* [ETH Board & ETH Domain](https://www.empa.ch/web/s604/ukraine-eth-domain)
+* [swissuniversities](https://www.swissuniversities.ch/aktuell/swissuniversities-verurteilt-die-militaerische-intervention-russlands-in-der-ukraine-aufs-schaerfste)
+* [European University Association (EUA)](https://eua.eu/news/834:eua-statement-of-solidarity-with-ukraine.html)
+* [France Universités](https://franceuniversites.fr/actualite/france-universites-solidaire-des-universites-ukrainiennes/)
+* [The Guild of European Research-Intensive Universities](https://www.the-guild.eu/news/2022/europe’s-universities-must-stand-up-for-democracy.html)
+* [German Rectors' Conference (HRK)](https://www.hrk.de/press/press-releases/press-release/meldung/solidarity-with-ukraine-and-ukrainian-universities-hrk-condemns-russian-attack-4888/)
 
 ## Місцева підтримка біженців | Local support for refugees
 
