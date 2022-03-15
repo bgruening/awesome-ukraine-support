@@ -30,16 +30,6 @@ This site contains information about resources for Ukrainian researchers and stu
 
 [^1]: https://bit.ly/ua-form
 
-### Франція | France
-
-* [French Neuroscience Society](https://www.neurosciences.asso.fr/mespages/offres-de-stage-ou-emploi/)
-* CNRS and Inserm alliance in Neuroscience
-  * [PhD positions](https://itneuro.aviesan.fr/phd.html) for 
-  * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
-  * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
-* [Association Bernard Gregory](https://www.abg.asso.fr/en/)
-* [Association Femmes&Sciences](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes) - housing, PhD, postdoc, master positions and work in industry in various cities in France (you can address us in English, Russian, or French)
-
 ## Житло | Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
@@ -138,8 +128,15 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Canton of Zurich](https://www.zh.ch/de/migration-integration/ukrainehilfe.html) (in German)
 * [Canton of Basel-Stadt](https://www.bs.ch/nm/2022-krieg-in-der-ukraine--aufnahme-von-fluechtlingen-in-basel-stadt-wsu.html) (in German) / [update](https://www.medien.bs.ch/nm/2022-krieg-in-der-ukraine---schweiz-aktiviert-schutzstatus-s-vorgehen-im-kanton-basel-stadt-wsu.html)
 
-### France
+### Франція | France
 
+* [French Neuroscience Society](https://www.neurosciences.asso.fr/mespages/offres-de-stage-ou-emploi/)
+* CNRS and Inserm alliance in Neuroscience
+  * [PhD positions](https://itneuro.aviesan.fr/phd.html) for 
+  * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
+  * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
+* [Association Bernard Gregory](https://www.abg.asso.fr/en/)
+* [Association Femmes&Sciences](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes) - housing, PhD, postdoc, master positions and work in industry in various cities in France (you can address us in English, Russian, or French)
 * [RESOME](https://www.resome.org/) is a french network of collective of students, teachers, individuals, associations and informal groups, acting side by side with refugees and migrants to foster access to higher education. Email: [contact[a]resome.org](mailto:contact@resome.org) and [Facebook](https://www.facebook.com/resomefr)
 * [Euraxess](https://www.euraxess.fr/) has helpdesks all over France for foreign students & scientists: entry procedures, social security, legal issues, accommodation, postdoctoral positions and research jobs...
 * Association Femmes & Sciences, specific contact for female scientists: [soutenir.ukrainiennes@femmesetsciences.fr](mailto:soutenir.ukrainiennes@femmesetsciences.fr)
