@@ -71,6 +71,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Aarhus University of Advanced Studies, Ukraine research fellowships](https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias)
 * [Українська Наукова Стипендійна Програма Дрезден | Ukraine Scientific Scholarship Program Dresden](https://www.ifw-dresden.de/de/career/job-offers)
 * [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
+* [EU-LIFE institutes](https://eu-life.eu/newsroom/news/ukraine)
 
 
 ## Заяви на підтримку | Support statements
@@ -93,6 +94,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [France Universités](https://franceuniversites.fr/actualite/france-universites-solidaire-des-universites-ukrainiennes/)
 * [The Guild of European Research-Intensive Universities](https://www.the-guild.eu/news/2022/europe’s-universities-must-stand-up-for-democracy.html)
 * [German Rectors' Conference (HRK)](https://www.hrk.de/press/press-releases/press-release/meldung/solidarity-with-ukraine-and-ukrainian-universities-hrk-condemns-russian-attack-4888/)
+
 
 ## Місцева підтримка біженців | Local support for refugees
 
