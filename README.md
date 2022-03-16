@@ -107,6 +107,7 @@ This site contains information about resources for Ukrainian researchers and stu
   * Call for donations from the ["Ukrainische Gesellschaft in Freiburg"](http://www.dug-freiburg.de)
   * [Wesna e.V.](https://wesna-verein.de) organising transport, support and housing for the Ukrainian refugees
   * https://seinlaedele.de - Second-hand shop, collects food
+  * [Money donation](https://www.alumni-foerdern.uni-freiburg.de/cause/1-mit-ihrer-hilfe-ukraine-universitaet-freiburg/)
 
   #### Munich
 
