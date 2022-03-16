@@ -139,10 +139,9 @@ This site contains information about resources for Ukrainian researchers and stu
   * [postdocs and researchers](https://itneuro.aviesan.fr/post-doc.html)
   * [engineers and technicians](https://itneuro.aviesan.fr/administratif-technique.html)
 * [Association Bernard Gregory](https://www.abg.asso.fr/en/)
-* [Association Femmes&Sciences](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes) - housing, PhD, postdoc, master positions and work in industry in various cities in France (you can address us in English, Russian, or French)
+* [Association Femmes&Sciences](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes) - platform for female scientists, professors and students; housing, research, postdoc, PhD, master positions and work in industry in various cities in France. Contact (you can address us in English, Russian, or French): [soutenir.ukrainiennes@femmesetsciences.fr](mailto:soutenir.ukrainiennes@femmesetsciences.fr)
 * [RESOME](https://www.resome.org/) is a french network of collective of students, teachers, individuals, associations and informal groups, acting side by side with refugees and migrants to foster access to higher education. Email: [contact[a]resome.org](mailto:contact@resome.org) and [Facebook](https://www.facebook.com/resomefr)
 * [Euraxess](https://www.euraxess.fr/) has helpdesks all over France for foreign students & scientists: entry procedures, social security, legal issues, accommodation, postdoctoral positions and research jobs...
-* Association Femmes & Sciences, specific contact for female scientists: [soutenir.ukrainiennes@femmesetsciences.fr](mailto:soutenir.ukrainiennes@femmesetsciences.fr)
 * [Residence permit, access to employment and social welfare are granted to anyone arriving from Ukraine, as announced by the European Union](https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1469)
 * [Free train for anyone arriving from Ukraine](https://www.20minutes.fr/societe/3245079-20220302-guerre-ukraine-sncf-etend-gratuite-trains-refugies-ter)
   
