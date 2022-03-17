@@ -169,6 +169,10 @@ university
 
   * [Useful links (consulate, associations) from the City mayor](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
 
+### Belgien
+
+* [ULB Brussels](https://actus.ulb.be/help-ukraine-academic-community)
+
 ### Молдавії | Moldova
   * [All the relevant information for entering and staying in Moldova](https://dopomoga.gov.md/)
 
