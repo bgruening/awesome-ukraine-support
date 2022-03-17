@@ -120,6 +120,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Hub for organizing help to Ukrainian refugees in Czechia](https://www.stojimezaukrajinou.cz/en). In English.
 * [List of useful resources avilable in Czechia](https://www.stojimezaukrajinou.cz/ua). in Ukraininan. 
 * [Hub for Ukrainian scientists in Czechia](https://www.studyin.cz/ukraine/570-dopomoga-ukrainskim-vcenim-help-for-ukrainian-scientists/)
+* [UA embassy in Prague](https://czechia.mfa.gov.ua/news/dopomoga-gromadyanam-ukrayini-shcho-postrazhdali-vid-vijni-u-chehiyi)
 
   #### Brno
   
