@@ -25,10 +25,10 @@ This site contains information about resources for Ukrainian researchers and stu
 
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
-* https://scienceforukraine.eu - maintained by the "SciencyForUkraine" initiative (contact infortmation is [here](https://scienceforukraine.eu/team.html))
+* https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 * [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
-
+* [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
 [^1]: https://bit.ly/ua-form
 
 ## Житло | Housing
@@ -44,7 +44,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
 * German Ukraine societies collect donations under www.lobetal.de
 * https://www.swisshelpukraine.ch
-* List of local donation
+* List of local donations
   * [Technical University of Munich](https://www.swisshelpukraine.ch)
 * [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
 
@@ -160,10 +160,10 @@ This site contains information about resources for Ukrainian researchers and stu
   * For those arriving in Paris: the welcome desk for people arriving from Ukraine, organized by France Terre d'Asile, is 39 rue des Cheminots, Paris 18e
   * [A list of other contact points and useful info and resources](https://www.paris.fr/pages/paris-se-mobilise-pour-l-ukraine-20504)
     
-    It includes free medical and psychological help for children and families; free meals in kindergarten and schools
+    It includes free medical and psychological help for children and families; free meals in kindergartens and schools
 
   * [Main entry point for students & academics: welcome desk Paris](https://access.ciup.fr/en/)
-  * [Support to students in exile at Ecole Normale Supérieure](https://enspei.wordpress.com/): french courses, social activities, help to find the right
+  * [Support to students in exile at Ecole Normale Supérieure](https://enspei.wordpress.com/): French courses, social activities, help to find the right
 university
 
   #### Lyon
@@ -183,6 +183,7 @@ university
 ## Демонстрації | Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
+* https://www.standwithukraine.app/protest online and live protests
 
 ## Інші ресурси | Other resources 
 * https://www.standwithukraine.how (Stanford Ukrainians)
