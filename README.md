@@ -27,7 +27,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "SciencyForUkraine" initiative (contact infortmation is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
-* [Jobs4Ukraine](https://jobsforukraine.net/industry) is a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs.
+* [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
 
 [^1]: https://bit.ly/ua-form
 
