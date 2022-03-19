@@ -54,7 +54,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
 * [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
-* French PAUSE program special call for [Ukranian researchers at risk](https://www.college-de-france.fr/site/programme-pause/PAUSE-Solidarite-Ukraine.htm)
+* French PAUSE program special call for [Ukranian researchers at risk](https://www.programmepause.org/?page_id=1870&lang=en)
   - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
   - Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
