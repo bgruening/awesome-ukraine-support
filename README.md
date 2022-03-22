@@ -37,8 +37,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.unterkunft-ukraine.de
 * private Vermittlung www.warmes-bett.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
-* [Point](https://pointsite.vercel.app/)
-* [Berlin Telegram](https://t.me/BerlinHostUkranians)
+* [Point](https://pointsite.vercel.app/) is an app for both finding or sharing a place
+* [Berlin Host Ukrainians](https://t.me/BerlinHostUkranians) is a Telegram channel about housing in Berlin
 
 ## Організації допомоги | Aid organisations
 
