@@ -102,6 +102,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [France Universités](https://franceuniversites.fr/actualite/france-universites-solidaire-des-universites-ukrainiennes/)
 * [The Guild of European Research-Intensive Universities](https://www.the-guild.eu/news/2022/europe’s-universities-must-stand-up-for-democracy.html)
 * [German Rectors' Conference (HRK)](https://www.hrk.de/press/press-releases/press-release/meldung/solidarity-with-ukraine-and-ukrainian-universities-hrk-condemns-russian-attack-4888/)
+* [FU Berlin](https://www.fu-berlin.de/en/universitaet/ukraine/index.html)
 
 
 ## Місцева підтримка біженців | Local support for refugees
