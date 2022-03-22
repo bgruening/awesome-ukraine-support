@@ -75,6 +75,10 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
 * [EU-LIFE institutes](https://eu-life.eu/newsroom/news/ukraine)
 
+##  TRANSLATION_NEEDED| Fellowship for students
+
+* [CEE special fellowship programme for Ukraine ](https://www.dbu.de/3046.html) for Msc and PhD students
+
 
 ## Заяви на підтримку | Support statements
 
