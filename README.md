@@ -23,11 +23,14 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ### Глобальні ресурси | Global resources
 
+* [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 * [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
+* [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
+* [Image Ukraine](https://imagine-ukraine.org/) advertise jobs for Ukrainians (white-collar)
 * [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
 [^1]: https://bit.ly/ua-form
 
@@ -37,6 +40,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.unterkunft-ukraine.de
 * private Vermittlung www.warmes-bett.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
+* [Point](https://pointsite.vercel.app/) is an app for both finding or sharing a place
 
 ## Організації допомоги | Aid organisations
 
@@ -74,6 +78,10 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
 * [EU-LIFE institutes](https://eu-life.eu/newsroom/news/ukraine)
 
+## Стипендія | Fellowship for students
+
+* [CEE special fellowship programme for Ukraine ](https://www.dbu.de/3046.html) for Msc and PhD students
+
 
 ## Заяви на підтримку | Support statements
 
@@ -95,11 +103,28 @@ This site contains information about resources for Ukrainian researchers and stu
 * [France Universités](https://franceuniversites.fr/actualite/france-universites-solidaire-des-universites-ukrainiennes/)
 * [The Guild of European Research-Intensive Universities](https://www.the-guild.eu/news/2022/europe’s-universities-must-stand-up-for-democracy.html)
 * [German Rectors' Conference (HRK)](https://www.hrk.de/press/press-releases/press-release/meldung/solidarity-with-ukraine-and-ukrainian-universities-hrk-condemns-russian-attack-4888/)
+* [FU Berlin](https://www.fu-berlin.de/en/universitaet/ukraine/index.html)
 
 
 ## Місцева підтримка біженців | Local support for refugees
 
+### Польща | Poland
+
+  #### Krakow
+   
+  * [Krakow Help](https://t.me/krakowhelpmain) is a Telegram channel dedicated to helping Ukrainians
+
 ###  Німеччина | Germany
+
+* [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany
+* [Deutsch-Ukrainische Akademische Gesellschaft / the German-Ukrainian Academic Society](https://ukrainet.eu/)
+
+  #### Berlin
+  
+  * [Information for Volunteers](https://info.arrivalsupport.berlin)
+  * [Ukraine Berlin Arrival Support](https://t.me/ukraineberlinarrivalsupport) is a Telegram channel for coordonating support
+  * [Ukraine Help Berlin](https://t.me/ukrainehelpberlin) is a Telegram channel about housing in Berlin
+  * [Vitsche](https://linktr.ee/ukrainehelpberlin) is a new association of young committed Ukrainians from Berlin
 
   #### Freiburg
 
@@ -113,6 +138,26 @@ This site contains information about resources for Ukrainian researchers and stu
   #### Munich
 
   * [TUM-IAS Fellowships](https://www.ias.tum.de/ias/news/news-single-view/article/tum-ias-fellowships-for-researchers-from-the-ukraine/)
+
+  #### Other German cities (Telegram)
+  
+  * [Bielefeld](https://t.me/bielefeldhelps)
+  * [Bremen](https://t.me/ukrainebremen)
+  * [Braunschweig](https://t.me/BS_UA_HELP)
+  * [Chemnitz](https://t.me/pomosh_Germany_Chemnitz_Ukraine)
+  * [Dresden](https://t.me/djV5nXL6pWdlYmQ6)
+  * [Duisburg](https://t.me/duisburgukraine)
+  * [Essen](https://t.me/ukr_de_essen)
+  * [Hamburg](https://t.me/hamburg_hilft)
+  * [Köln](https://t.me/cologne_help)
+  * [Leipzig](https://t.me/ukrainerinleipzig)
+  * [Magdeburg](https://t.me/magdeburg_ukraine)
+  * [Nürnberg](https://t.me/help_in_Nuremberg_UA)
+  * [Rheinland-Pfalz](https://t.me/ukrainerheinlandpfalz)
+  * [Saarland](https://t.me/ukrainesaarland)
+  * [Stuttgart Raum](https://t.me/helpforukraine22)
+  * [Thüringen](https://t.me/thuringia_stands_with_ukraine)
+  * [Thüringen bis](https://t.me/th_helps_ukraine)
 
 ###  Чехія | Czechia 
 
@@ -170,7 +215,7 @@ university
 
   * [Useful links (consulate, associations) from the City mayor](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
 
-### Belgien
+### Бельгія | Belgium
 
 * [ULB Brussels](https://actus.ulb.be/help-ukraine-academic-community)
 
