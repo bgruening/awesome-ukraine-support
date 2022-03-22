@@ -101,6 +101,7 @@ This site contains information about resources for Ukrainian researchers and stu
 ## Місцева підтримка біженців | Local support for refugees
 
 ###  Німеччина | Germany
+* [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany
 
   #### Berlin
   * [Information for Volunteers](https://info.arrivalsupport.berlin)
