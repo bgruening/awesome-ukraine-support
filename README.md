@@ -29,6 +29,7 @@ This site contains information about resources for Ukrainian researchers and stu
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 * [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
 * [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
+* [Image Ukraine](https://imagine-ukraine.org/) advertise jobs for Ukrainians (white-collar)
 * [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
 [^1]: https://bit.ly/ua-form
 
