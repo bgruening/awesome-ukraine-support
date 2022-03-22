@@ -113,6 +113,7 @@ This site contains information about resources for Ukrainian researchers and stu
 ###  Німеччина | Germany
 
 * [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany
+* [Deutsch-Ukrainische Akademische Gesellschaft / the German-Ukrainian Academic Society](https://ukrainet.eu/)
 
   #### Berlin
   
