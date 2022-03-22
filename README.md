@@ -100,10 +100,18 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ## Місцева підтримка біженців | Local support for refugees
 
+### Польща | Poland
+
+  #### Krakow
+   
+  * [Krakow Help](https://t.me/krakowhelpmain) is a Telegram channel dedicated to helping Ukrainians
+
 ###  Німеччина | Germany
+
 * [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany
 
   #### Berlin
+  
   * [Information for Volunteers](https://info.arrivalsupport.berlin)
   * [Ukraine Berlin Arrival Support](https://t.me/ukraineberlinarrivalsupport) is a Telegram channel for coordonating support
   * [Ukraine Help Berlin](https://t.me/ukrainehelpberlin) is a Telegram channel about housing in Berlin
@@ -120,6 +128,26 @@ This site contains information about resources for Ukrainian researchers and stu
   #### Munich
 
   * [TUM-IAS Fellowships](https://www.ias.tum.de/ias/news/news-single-view/article/tum-ias-fellowships-for-researchers-from-the-ukraine/)
+
+  #### Other German cities (Telegram)
+  
+  * [Bielefeld](https://t.me/bielefeldhelps)
+  * [Bremen](https://t.me/ukrainebremen)
+  * [Braunschweig](https://t.me/BS_UA_HELP)
+  * [Chemnitz](https://t.me/pomosh_Germany_Chemnitz_Ukraine)
+  * [Dresden](https://t.me/djV5nXL6pWdlYmQ6)
+  * [Duisburg](https://t.me/duisburgukraine)
+  * [Essen](https://t.me/ukr_de_essen)
+  * [Hamburg](https://t.me/hamburg_hilft)
+  * [Köln](https://t.me/cologne_help)
+  * [Leipzig](https://t.me/ukrainerinleipzig)
+  * [Magdeburg](https://t.me/magdeburg_ukraine)
+  * [Nürnberg](https://t.me/help_in_Nuremberg_UA)
+  * [Rheinland-Pfalz](https://t.me/ukrainerheinlandpfalz)
+  * [Saarland](https://t.me/ukrainesaarland)
+  * [Stuttgart Raum](https://t.me/helpforukraine22)
+  * [Thüringen](https://t.me/thuringia_stands_with_ukraine)
+  * [Thüringen bis](https://t.me/th_helps_ukraine)
 
 ###  Чехія | Czechia 
 
