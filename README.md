@@ -38,7 +38,6 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.warmes-bett.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
 * [Point](https://pointsite.vercel.app/) is an app for both finding or sharing a place
-* [Berlin Host Ukrainians](https://t.me/BerlinHostUkranians) is a Telegram channel about housing in Berlin
 
 ## Організації допомоги | Aid organisations
 
@@ -102,6 +101,11 @@ This site contains information about resources for Ukrainian researchers and stu
 ## Місцева підтримка біженців | Local support for refugees
 
 ###  Німеччина | Germany
+
+  #### Berlin
+  * [Information for Volunteers](https://info.arrivalsupport.berlin)
+  * [Ukraine Berlin Arrival Support](https://t.me/ukraineberlinarrivalsupport) is a Telegram channel for coordonating support
+  * [Ukraine Help Berlin](https://t.me/ukrainehelpberlin) is a Telegram channel about housing in Berlin
 
   #### Freiburg
 
