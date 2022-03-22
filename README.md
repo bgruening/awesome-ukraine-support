@@ -23,6 +23,7 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ### Глобальні ресурси | Global resources
 
+* [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
