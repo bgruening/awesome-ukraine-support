@@ -120,6 +120,7 @@ This site contains information about resources for Ukrainian researchers and stu
   * [Information for Volunteers](https://info.arrivalsupport.berlin)
   * [Ukraine Berlin Arrival Support](https://t.me/ukraineberlinarrivalsupport) is a Telegram channel for coordonating support
   * [Ukraine Help Berlin](https://t.me/ukrainehelpberlin) is a Telegram channel about housing in Berlin
+  * [Vitsche](https://linktr.ee/ukrainehelpberlin) is a new association of young committed Ukrainians from Berlin
 
   #### Freiburg
 
