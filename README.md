@@ -23,7 +23,7 @@ This site contains information about resources for Ukrainian researchers and stu
 
 The following resources list laboratories that accept Ukrainian scientists and students **now**. 
 
-### Глобальні ресурси (XXXX) | Global resources (academic)
+### Глобальні ресурси (академічні) | Global resources (academic)
 
 * [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
@@ -31,7 +31,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 
-### Глобальні ресурси (XXXX) | Global resources (non-academic)
+### Глобальні ресурси (неакадемічні) | Global resources (non-academic)
 
 * [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
 * [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
