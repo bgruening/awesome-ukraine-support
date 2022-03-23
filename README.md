@@ -19,20 +19,32 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ## Позиціï для науковців та студентів | Positions for researchers and students 
 
-Нижче наведено списки лабораторій, які можуть приймати українських вчених і студентів **зараз**. The following resources list laboratories that accept Ukrainian scientists and students **now**. 
+Нижче наведено списки лабораторій, які можуть приймати українських вчених і студентів **зараз**.
 
-### Глобальні ресурси | Global resources
+The following resources list laboratories that accept Ukrainian scientists and students **now**. 
+
+### Глобальні ресурси (академічні) | Global resources (academic)
 
 * [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
 * https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
+
+### Глобальні ресурси (неакадемічні) | Global resources (non-academic)
+
 * [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
 * [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
 * [Image Ukraine](https://imagine-ukraine.org/) advertise jobs for Ukrainians (white-collar)
 * [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
-[^1]: https://bit.ly/ua-form
+* [Most Together](https://mosttogether.org/) offers above all mental support, but also housing, jobs, clothing...
+
+
+## Транспорт | Transport
+
+* [Busses](https://92vchbhduak.typeform.com/to/IARzsabv) to get a bus at the Urkainian border
+* [Ride platform](https://transfer-ukraine.com/) to get or offer a ride from the Urkainian border
+
 
 ## Житло | Housing
 
@@ -41,6 +53,8 @@ This site contains information about resources for Ukrainian researchers and stu
 * private Vermittlung www.warmes-bett.de
 * [Europe Network for refugees](https://www.warhelp.eu/places)
 * [Point](https://pointsite.vercel.app/) is an app for both finding or sharing a place
+* [Shelter for UA](https://www.shelter4ua.com)
+* [Unterkunft Ukraine](https://www.unterkunft-ukraine.de/) lists many places to stay
 
 ## Організації допомоги | Aid organisations
 
@@ -54,33 +68,67 @@ This site contains information about resources for Ukrainian researchers and stu
 
 ## Фінансова допомога | Research funding 
 
-* [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
-* [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
-* [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
-* [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
-* French PAUSE program special call for [Ukranian researchers at risk](https://www.programmepause.org/?page_id=1870&lang=en)
-  - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
-  - Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
-* [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
+### Австрія | Austria
+
+* [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
+
+### Чехія | Czech Republic
+
 * [Announcement from the Czech Academy of Sciences](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
 * [Announcement from the Czech Science Foundation](https://gacr.cz/en/support-for-ukrainian-scientists-and-students/)
 * [NF Neuron grant](https://www.nfneuron.cz/en) starter grants (8000 EUR) for Ukrainian scientists in the Czech republic
-* [Austrian Academy of Sciences JESH academic mobility program](https://stipendien.oeaw.ac.at/stipendien/jesh-ukraine)
+* [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
+
+### Данія | Denmark
+
+* [Denmark Aarhus University - Ukraine Research Fellowships](https://aias.au.dk/opportunities-at-aias/auff-ukraine-fellowships)
+* [Aarhus University of Advanced Studies, Ukraine research fellowships](https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias)
+
+### Франція | France
+
+* French PAUSE program special call for [Ukranian researchers at risk](https://www.programmepause.org/?page_id=1870&lang=en)
+  - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
+  - Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
+
+### Німеччина | Germany
+
+* [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
+* [DFG Walter Benjamin Programme](https://www.dfg.de/formulare/55_06/55_06_en.pdf)
+* [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
+* [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
+
+### Ізраїль | Israel
+
+* [Weizmann Institute of Science, Feinberg Graduate School](https://www.weizmann.ac.il/feinberg/supported-visiting-students-and-postdocs-program-ukrainians)
+
+### Польща | Poland
+
+* [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
+
+### Швеція | Sweden
+
+* [Swedish Foundation for Strategic Research - Individual grants for Ukrainian scientists](https://strategiska.se/en/call-for-proposal/ssf-individual-grants-for-ukrainian-scientists-2022/)
+
+### Швейцарія | Switzerland
+
 * [Swiss National Science Foundation](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine)
+* [Swiss Society for Crystallography, Scholarship for Ukrainian students](https://swiss-crystallography.ch/en/uuid/i/201a21c0-e302-59da-b9b5-f05ec595fbf5-Scholarship_for_Ukranian_students)
+
+### Сполучені Штати Америки | United States
+
+* [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
+
+### Міжнародний | International
+
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
-* [Denmark Aarhus University - Ukraine Research Fellowships](https://aias.au.dk/opportunities-at-aias/auff-ukraine-fellowships)
-* [Swedish Foundation for Strategic Research - Individual grants for Ukrainian scientists](https://strategiska.se/en/call-for-proposal/ssf-individual-grants-for-ukrainian-scientists-2022/)
-* [Weizmann Institute of Science, Feinberg Graduate School](https://www.weizmann.ac.il/feinberg/supported-visiting-students-and-postdocs-program-ukrainians)
-* [Swiss Society for Crystallography, Scholarship for Ukrainian students](https://swiss-crystallography.ch/en/uuid/i/201a21c0-e302-59da-b9b5-f05ec595fbf5-Scholarship_for_Ukranian_students)
-* [Aarhus University of Advanced Studies, Ukraine research fellowships](https://aias.au.dk/events/show/artikel/aarhus-university-ukrainian-research-fellowships-at-aias)
-* [Українська Наукова Стипендійна Програма Дрезден | Ukraine Scientific Scholarship Program Dresden](https://www.ifw-dresden.de/de/career/job-offers)
-* [Institute of Organic Chemistry and Biochemistry (IOCB) Prague, Czech Academy of Sciences](https://www.uochb.cz/en/news/401/employment-offer-for-ukrainian-researchers-and-phd-students)
 * [EU-LIFE institutes](https://eu-life.eu/newsroom/news/ukraine)
+
 
 ## Стипендія | Fellowship for students
 
 * [CEE special fellowship programme for Ukraine ](https://www.dbu.de/3046.html) for Msc and PhD students
+* [DAAD Students at Risk - Hilde Domin Programme](https://www.daad.de/en/study-and-research-in-germany/scholarships/hilde-domin-programm/)
 
 
 ## Заяви на підтримку | Support statements
@@ -114,7 +162,7 @@ This site contains information about resources for Ukrainian researchers and stu
    
   * [Krakow Help](https://t.me/krakowhelpmain) is a Telegram channel dedicated to helping Ukrainians
 
-###  Німеччина | Germany
+### Німеччина | Germany
 
 * [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany
 * [Deutsch-Ukrainische Akademische Gesellschaft / the German-Ukrainian Academic Society](https://ukrainet.eu/)
@@ -126,6 +174,13 @@ This site contains information about resources for Ukrainian researchers and stu
   * [Ukraine Help Berlin](https://t.me/ukrainehelpberlin) is a Telegram channel about housing in Berlin
   * [Vitsche](https://linktr.ee/ukrainehelpberlin) is a new association of young committed Ukrainians from Berlin
 
+  #### Dresden
+
+  * [Legal counseling for refugees](https://www.facebook.com/rlc.dresden)
+  * [Welcome Center](https://dresden-concept.de/welcome/?lang=en) for international researchers
+  * [Українська Наукова Стипендійна Програма Дрезден | Ukraine Scientific Scholarship Program Dresden](https://www.ifw-dresden.de/de/career/job-offers)
+  * [Other links](https://tu-dresden.de/tu-dresden/internationales/we-care/ukraine/hilfs-und-foerderangebote-an-der-tud?set_language=en)
+
   #### Freiburg
 
   * [Geld und Sachspenden](https://blog.stadtmission-freiburg.de)
@@ -134,6 +189,10 @@ This site contains information about resources for Ukrainian researchers and stu
   * [Wesna e.V.](https://wesna-verein.de) organising transport, support and housing for the Ukrainian refugees
   * https://seinlaedele.de - Second-hand shop, collects food
   * [Money donation](https://www.alumni-foerdern.uni-freiburg.de/cause/1-mit-ihrer-hilfe-ukraine-universitaet-freiburg/)
+
+  #### Leipzig
+  * [linXXnet](https://www.linxxnet.de/ukraine/) for housing
+  * [Ukrainer in Leipzig](https://t.me/ukrainerinleipzig) is a telegram channel
 
   #### Munich
 
@@ -150,7 +209,6 @@ This site contains information about resources for Ukrainian researchers and stu
   * [Essen](https://t.me/ukr_de_essen)
   * [Hamburg](https://t.me/hamburg_hilft)
   * [Köln](https://t.me/cologne_help)
-  * [Leipzig](https://t.me/ukrainerinleipzig)
   * [Magdeburg](https://t.me/magdeburg_ukraine)
   * [Nürnberg](https://t.me/help_in_Nuremberg_UA)
   * [Rheinland-Pfalz](https://t.me/ukrainerheinlandpfalz)
@@ -220,16 +278,19 @@ university
 * [ULB Brussels](https://actus.ulb.be/help-ukraine-academic-community)
 
 ### Молдавії | Moldova
-  * [All the relevant information for entering and staying in Moldova](https://dopomoga.gov.md/)
+
+* [All the relevant information for entering and staying in Moldova](https://dopomoga.gov.md/)
 
 ### Румунія | Romania
-  * [A comprehensive online resource for humanitarian help available in Romania to refugees from Ukraine](https://dopomoha.ro/uk)
+
+* [A comprehensive online resource for humanitarian help available in Romania to refugees from Ukraine](https://dopomoha.ro/uk)
+
 
 ## Демонстрації | Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
 * https://www.standwithukraine.app/protest online and live protests
 
+
 ## Інші ресурси | Other resources 
 * https://www.standwithukraine.how (Stanford Ukrainians)
-
