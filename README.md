@@ -40,7 +40,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * [Most Together](https://mosttogether.org/) offers above all mental support, but also housing, jobs, clothing...
 
 
-## транспорт | Transport
+## Транспорт | Transport
 
 * [Busses](https://92vchbhduak.typeform.com/to/IARzsabv) to get a bus at the Urkainian border
 * [Ride platform](https://transfer-ukraine.com/) to get or offer a ride from the Urkainian border
@@ -118,7 +118,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 * [Harvard University’s Scholars at Risk](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
 
-### міжнародний | International
+### Міжнародний | International
 
 * [NAFSA: Association of International Educators Immigration Resources](https://www.nafsa.org/regulatory-information/immigration-resources-ukraine)
 * [Central European University](https://giving.ceu.edu/ukraine-solidarity-initiatives)
