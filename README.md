@@ -32,7 +32,6 @@ This site contains information about resources for Ukrainian researchers and stu
 * [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
 * [Image Ukraine](https://imagine-ukraine.org/) advertise jobs for Ukrainians (white-collar)
 * [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
-[^1]: https://bit.ly/ua-form
 * [Most Together](https://mosttogether.org/) offers above all mental support, but also housing, jobs, clothing...
 
 ## транспорт | Transport
