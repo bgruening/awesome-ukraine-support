@@ -104,6 +104,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 ### Польща | Poland
 
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
+* [Polish Academy of Sciences and the U.S. National Academy of Sciences (NAS)](https://institution.pan.pl/index.php/767-pas-and-nas-will-help-scientists-from-ukraine?fbclid=IwAR0E-u6SlwBjFyl_GADhi6MfspYTfsF6rPHxN2lK7_D7-N2NIYZzSLvLERY) joint effort to help Ukrainian scientists
 
 ### Швеція | Sweden
 
