@@ -102,6 +102,10 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 * [Weizmann Institute of Science, Feinberg Graduate School](https://www.weizmann.ac.il/feinberg/supported-visiting-students-and-postdocs-program-ukrainians)
 
+### Італія | Italy
+
+* [CNR](https://www.cnr.it/it/comunicato-stampa/11015/emergenza-ucraina-66-borse-di-studio-dal-cnr)
+
 ### Польща | Poland
 
 * [Polish Academy of Sciences](https://institution.pan.pl/index.php/755-visits-of-ukrainian-scientists-to-pas)
