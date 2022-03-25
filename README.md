@@ -30,6 +30,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
 * [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
+* [Assistance offers from DAAD for students and scientists](https://www.daad.de/en/the-daad/hilfsangebote/)
 
 ### Глобальні ресурси (неакадемічні) | Global resources (non-academic)
 
