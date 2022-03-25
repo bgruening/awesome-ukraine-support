@@ -1,8 +1,8 @@
 # Ресурси для украïньских вчених та студентів
-This site contains information about resources for Ukrainian researchers and students. 
+Цей сайт містить інформацію щодо ресурсів для украïньских вчених та студентів.
 
 # Support for ukrainian researchers and students
-Цей сайт містить інформацию щодо ресурсів для украïньских вченых та студентів
+This site contains information about resources for Ukrainian researchers and students.
 
 <!--
 
@@ -25,47 +25,47 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Глобальні ресурси (академічні) | Global resources (academic)
 
-* [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
-* https://bit.ly/ua-table - maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
+* [ERA4Ukraine](https://euraxess.ec.europa.eu/ukraine) це європейська ініціатива для забезпечення українських дослідників оглядом існуючих заходів на Європейському та національному рівнях | is a EU initiative to provide Ukrainian researchers with an overview of all existing actions at European and national levels
+* https://bit.ly/ua-table - a detailed list of labs welcoming Ukrainians, maintained by our group (to add new entries use https://bit.ly/ua-form, for questions contact ukraine@galaxyproject.org)
 * https://www.embo.org/solidarity-with-ukraine - maintained by EMBO (new entries can be added directly from the webpage)
 * https://scienceforukraine.eu - maintained by the "ScienceForUkraine" initiative (contact information is [here](https://scienceforukraine.eu/team.html))
-* [EAPIL list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
+* [EAPIL підтримка | list of support](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 * [Assistance offers from DAAD for students and scientists](https://www.daad.de/en/the-daad/hilfsangebote/)
 
 ### Глобальні ресурси (неакадемічні) | Global resources (non-academic)
 
-* [Jobs4Ukraine](https://jobsforukraine.net/industry) - a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
-* [Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - similar to previous link
-* [Image Ukraine](https://imagine-ukraine.org/) advertise jobs for Ukrainians (white-collar)
-* [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) verified global and European aid sources
+* [Jobs4Ukraine](https://jobsforukraine.net/industry) - перелік компаній у Європі, що можуть прийняти біженців та технічний персонал на роботу та реєстрація “синіх та білих комірців”, що шукають роботу | a curated, EU-wide list of companies that can take up refugee workers and technical staff with immediate effect, and a registry of white- and blue-collar workers seeking jobs. Співзасновник | Co-founded by Marcin Ratajczak (CEO of [Inuru GmbH](https://www.inuru.com)).
+* [Допомога у пошуку роботи для українських біженців | Job Aid for Ukrainain Refugees](https://www.jobaidukraine.com/) - аналогічно до попереднього лінка | similar to previous link
+* [Image Ukraine](https://imagine-ukraine.org/) оголошення про роботу для українців (білі комірці) | advertise jobs for Ukrainians (white-collar)
+* [Отримати домопогу/Get help](https://www.standwithukraine.app/ua/#receive-title) перевірені глобальні та Європейські джерела допомоги | verified global and European aid sources
 * [Most Together](https://mosttogether.org/) offers above all mental support, but also housing, jobs, clothing...
 
 
 ## Транспорт | Transport
 
-* [Busses](https://92vchbhduak.typeform.com/to/IARzsabv) to get a bus at the Urkainian border
-* [Ride platform](https://transfer-ukraine.com/) to get or offer a ride from the Urkainian border
+* [Busses](https://92vchbhduak.typeform.com/to/IARzsabv) to get a bus at the Ukrainian border
+* [Ride platform](https://transfer-ukraine.com/) to get or offer a ride from the Ukrainian border
 
 
 ## Житло | Housing
 
-* [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees
+* [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) приміщення/житло для біженців | is organising space/housing for refugees
 * private Vermittlung www.unterkunft-ukraine.de
 * private Vermittlung www.warmes-bett.de
-* [Europe Network for refugees](https://www.warhelp.eu/places)
-* [Point](https://pointsite.vercel.app/) is an app for both finding or sharing a place
+* [Європейська мережа для біженців | Europe Network for refugees](https://www.warhelp.eu/places)
+* [Point](https://pointsite.vercel.app/) додаток для пошуку та надання житла | is an app for both finding or sharing a place
 * [Shelter for UA](https://www.shelter4ua.com)
 * [Unterkunft Ukraine](https://www.unterkunft-ukraine.de/) lists many places to stay
 
-## Організації допомоги | Aid organisations
+## Організації, що надають допомогу | Aid organisations
 
-* German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
+* Німецький центральний інститут соціальних питань склав огляд перевірених благодійних організацій | German Central Institute for Social Issues has compiled an overview of [trustworthy aid organizations and donation opportunities](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website](https://www.freiburg.de/pb/1852726.html)
-* German Ukraine societies collect donations under www.lobetal.de
+* Німецько-українські спільноти збирають пожертви тут | German Ukraine societies collect donations under www.lobetal.de
 * https://www.swisshelpukraine.ch
-* List of local donations
+* Перелік місцевих благодійників | List of local donations
   * [Technical University of Munich](https://www.swisshelpukraine.ch)
-* [Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (American Cancer Society)
+* [Підтримка українських хворих на рак та доглядальниць | Support for Ukrainian Patients with Cancer and Caregivers](https://www.cancer.org/about-us/what-we-do/ukraine-support.html) (Американська спілка раку | American Cancer Society)
 
 ## Фінансова допомога | Research funding 
 
@@ -93,7 +93,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Німеччина | Germany
 
-* [German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
+* [Німецькі дослідницькі фонди | German Research Foundation (DFG)](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
 * [DFG Walter Benjamin Programme](https://www.dfg.de/formulare/55_06/55_06_en.pdf)
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
