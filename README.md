@@ -287,6 +287,9 @@ university
 
 * [A comprehensive online resource for humanitarian help available in Romania to refugees from Ukraine](https://dopomoha.ro/uk)
 
+### Нідерланди | Netherlands
+
+* [Welcome to the Netherlands](https://www.refugeehelp.com/get-help)
 
 ## Демонстрації | Demonstrations
 
