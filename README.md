@@ -291,6 +291,10 @@ university
 
 * [Welcome to the Netherlands](https://www.refugeehelp.com/get-help)
 
+  #### Wageningen
+  
+  * [Wageningen voor Oekraïne](https://welsaam.nl/oekraine/)
+
 ## Демонстрації | Demonstrations
 
 * https://standwithukraine.live you can find out where peace demonstrations are taking place.
