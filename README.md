@@ -117,7 +117,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Швейцарія | Switzerland
 
-* [Swiss National Science Foundation](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine)
+* [Swiss National Science Foundation](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine) / [update](https://www.snf.ch/en/HhF3u8JcgHiJSHDi/news/support-for-researchers-from-ukraine-topped-up-to-nine-million-francs)
 * [Swiss Society for Crystallography, Scholarship for Ukrainian students](https://swiss-crystallography.ch/en/uuid/i/201a21c0-e302-59da-b9b5-f05ec595fbf5-Scholarship_for_Ukranian_students)
 
 ### Сполучені Штати Америки | United States
