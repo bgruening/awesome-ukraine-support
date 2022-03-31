@@ -88,8 +88,8 @@ The following resources list laboratories that accept Ukrainian scientists and s
 ### Франція | France
 
 * French PAUSE program special call for [Ukranian researchers at risk](https://www.programmepause.org/?page_id=1870&lang=en)
-  - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. 
-  - Femmes&Sciences (Women&Science) created a [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
+  - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you find a host university.
+  - [CampusFrance](https://www.campusfrance.org/en/displaced-students-from-ukraine-under-the-status-of-temporary-protection-campus-france-helps-you)  : helps ukrainian students to find an institution to continue their studies, get an accommodation and psychological support.
 
 ### Німеччина | Germany
 
