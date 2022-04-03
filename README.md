@@ -89,7 +89,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 * French PAUSE program special call for | Французька програма PAUSE, спеціальні гранти для [Ukranian researchers at risk | українських науковців в небезпеці](https://www.programmepause.org/?page_id=1870&lang=en)
   - It is the main program in France, it offers financial support to get started in France, with family. Any French University can apply for you. If you do not have any contact in France, PAUSE can help you finding a host university. | Це основна програма в Франції, яка проаонує фінансову підтримку, щоб розпочати життя в Франції, з сім'єю. Ви можете подати заявку з будь-яким університетом Франції. Якщо Ви не маєте контактів в Франції, PAUSE може допомогти Вам знайти відповідний університет.
-  - Femmes&Sciences (Women&Science) created a | Жінки в науці створили [platform to help housing ukranian women colleagues and help them with their proposal for PAUSE program | платформу допомоги з проживанням для українських жінок-колег і підтримки в написанні ними заявок для програми PAUSE ](https://www.femmesetsciences.fr/news/accueil-des-femmes-ukrainiennes)
+- [CampusFrance](https://www.campusfrance.org/en/displaced-students-from-ukraine-under-the-status-of-temporary-protection-campus-france-helps-you): helps ukrainian students to find an institution to continue their studies, get an accommodation and psychological support
 
 ### Німеччина | Germany
 
@@ -101,6 +101,10 @@ The following resources list laboratories that accept Ukrainian scientists and s
 ### Ізраїль | Israel
 
 * [Weizmann Institute of Science, Feinberg Graduate School | Інститут наук Вайзманнаб Аспірантура Файнберга](https://www.weizmann.ac.il/feinberg/supported-visiting-students-and-postdocs-program-ukrainians)
+
+### Італія | Italy
+
+* [CNR](https://www.cnr.it/it/comunicato-stampa/11015/emergenza-ucraina-66-borse-di-studio-dal-cnr)
 
 ### Польща | Poland
 
@@ -182,6 +186,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
   * [Welcome Center](https://dresden-concept.de/welcome/?lang=en) for international researchers | Центр зустрічі для міжнародних науковців
   * [Українська Наукова Стипендійна Програма Дрезден | Ukraine Scientific Scholarship Program Dresden](https://www.ifw-dresden.de/de/career/job-offers)
   * [Інше | Other links](https://tu-dresden.de/tu-dresden/internationales/we-care/ukraine/hilfs-und-foerderangebote-an-der-tud?set_language=en)
+  
 
   #### Фрайбург | Freiburg
  
