@@ -279,3 +279,4 @@ university | курси французької, соціальні події, �
 
 ## Other resources  | Інші ресурси
 * https://www.standwithukraine.how (Stanford Ukrainians)
+* [Support Academics at Risks | Підтримка дослідників та науковців (ОНОВЛЮЄТЬСЯ)] https://www.lvivcenter.org/updates/academics-at-risk/ (a list similar to this one)
