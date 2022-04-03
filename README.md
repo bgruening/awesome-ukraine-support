@@ -28,7 +28,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * [Busses](https://92vchbhduak.typeform.com/to/IARzsabv) to get a bus at the Ukrainian border | Щоб cісти на автобус на українському кордоні
 * [Ride platform](https://transfer-ukraine.com/) to get or offer a ride from the Ukrainian border | Щоб запропонувати відвезти або знайти можливість під'їхати приватним транспортом на українському кордоні
 
-## Житло | Housing
+## Housing | Житло
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees | приміщення/житло для біженців
 * private Vermittlung www.unterkunft-ukraine.de
@@ -38,7 +38,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * [Shelter for UA](https://www.shelter4ua.com)
 * [Unterkunft Ukraine](https://www.unterkunft-ukraine.de/) lists many places to stay | список можливостей для ночівлі
 
-## Організації, що надають допомогу | Aid organisations
+## Aid organisations | Організації, що надають допомогу
 
 * [German Central Institute for Social Issues has compiled an overview of trustworthy aid organizations and donation opportunities | Німецький центральний інститут соціальних питань склав огляд перевірених благодійних організацій](https://www.dzi.de/pressemitteilungen/spenden-fuer-beduerftige-in-der-ukraine-und-auf-der-flucht/)
 * [City of Freiburg Aid website | Вебсайт допомоги міста Фрайбург](https://www.freiburg.de/pb/1852726.html) 
