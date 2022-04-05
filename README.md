@@ -77,9 +77,10 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Germany | Німеччина
 
+* [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
+* [DAAD Leonhard Euler Program](https://www2.daad.de/hochschulen/ausschreibungen/projekte/de/11342-foerderprogramme-finden/?s=1&projektid=57607840) is a program that finances 9 months of research in the home country (here Ukraine) and 3 months of research in Germany (next deadline in June, hosting German institution must apply)
 * [German Research Foundation (DFG) | Німецькі дослідницькі фонди](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
 * [DFG Walter Benjamin Programme](https://www.dfg.de/formulare/55_06/55_06_en.pdf)
-* [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
 * [Volkswagen Foundation](https://www.volkswagenstiftung.de/en/funding/our-funding-portfolio-at-a-glance/funding-for-refugee-scholars-and-scientists-from-ukraine)
 
 ### Israel | Ізраїль
