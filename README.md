@@ -118,6 +118,8 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ## Fellowship for students | Стипендія
 
+### Germany | Німеччина
+
 * [CEE special fellowship programme for Ukraine ](https://www.dbu.de/3046.html) for Msc and PhD students
 * [DAAD Students at Risk - Hilde Domin Programme](https://www.daad.de/en/study-and-research-in-germany/scholarships/hilde-domin-programm/)
 * [DAAD Leonhard Euler Program](https://www2.daad.de/hochschulen/ausschreibungen/projekte/de/11342-foerderprogramme-finden/?s=1&projektid=57607840) is a program that finances 9 months of study & research for graduate and doctoral students in the home country (here Ukraine) and 3 months of research in Germany (next deadline in June, hosting German institution must apply)
