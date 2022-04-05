@@ -14,6 +14,8 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * [EAPIL list of support | підтримка](https://eapil.org/2022/03/10/funding-opportunities-and-help-for-scholars-from-ukraine-russia-and-belarus)
 * [Assistance offers from DAAD for students and scientists | Пропозиції підтримки студентам і науковцям від DAAD (Німецька академічна служба обміну)
 ](https://www.daad.de/en/the-daad/hilfsangebote/)
+* https://docs.google.com/forms/d/e/1FAIpQLSeMvof14FSYAABpPc5PhOFo5RFBctDEGwJFFbfn6Dj1CFb3gA/viewform - a form to register Ukrainians located in Ukraine who are interested in doing remote research
+
 
 ### Global resources (non-academic) | Глобальні ресурси (неакадемічні)
 
