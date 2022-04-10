@@ -202,6 +202,7 @@ university | курси французької, соціальні події, �
   #### Lyon | Ліон
 
   * [Useful links (consulate, associations) from the City mayor | Корисна інформація (консульство, асоціації) від мерії міста ](https://www.lyon.fr/actualite/solidarite/la-ville-de-lyon-et-ses-habitantes-aux-cotes-de-la-population-ukrainien)
+  * [École normale supérieure de Lyon](http://www.ens-lyon.fr/en/article/about-us/support-ukraine)
 
 ### Germany | Німеччина
 
