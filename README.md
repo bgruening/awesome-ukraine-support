@@ -16,7 +16,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 ](https://www.daad.de/en/the-daad/hilfsangebote/)
 * https://docs.google.com/forms/d/e/1FAIpQLSeMvof14FSYAABpPc5PhOFo5RFBctDEGwJFFbfn6Dj1CFb3gA/viewform - a form to register Ukrainians located in Ukraine who are interested in doing remote research
 * https://forms.gle/kwBXDxLa96N4hEoK9 - a form to register Ukrainians located in EU (or about to be) who are interested in doing research in a EU-based lab
-
+* [Horizon for Ukraine](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/ua-opportunities) - EU funded research projects
 
 ### Global resources (non-academic) | Глобальні ресурси (неакадемічні)
 
