@@ -61,8 +61,6 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Europe
 
-* [UA Opportunities in Europe](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/ua-opportunities)
-
 ### Czech Republic | Чехія
 
 * [Announcement from the Czech Academy of Sciences | Оголошення Чеської академії наук](https://www.avcr.cz/en/news-archive/The-Czech-Academy-of-Sciences-supports-scientists-in-Ukraine/)
