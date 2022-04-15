@@ -212,6 +212,7 @@ university | курси французької, соціальні події, �
 
 * [Help Ukraine Gemany](https://t.me/helpUkraine_Gemany) is a Telegram channel for Ukrainians in Germany | Телеграм-канал для допомоги українцям в Німеччині
 * [Deutsch-Ukrainische Akademische Gesellschaft / the German-Ukrainian Academic Society | Німецько-українське академічне товариство ](https://ukrainet.eu/)
+* [DAAD](https://www.daad-ukraine.org/en/) -- the German Academic Exchange Service -- has a new page with various information for Ukrainian students and researchers (available in English -- Deutsch -- Українська)
 
   #### Berlin | Берлін
   
