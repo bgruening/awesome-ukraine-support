@@ -81,6 +81,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 
 ### Germany | Німеччина
 
+* [Die Junge Akademie](https://www.diejungeakademie.de/neuigkeiten/detail/mentoring-angebot-der-jungen-akademie/) provides free consulting for helping scientists figuring out where they can apply for grants in Germany. The best is to directly write to ScienceforUkraine@diejungeakademie.de
 * [Academics in Solidarity](https://www.fu-berlin.de/en/sites/academicsinsolidarity/media/AiS-Basic/Flyer-AiS.pdf) is an initiative (BMBF funded) based at Freie University Berlin that can be used for funding Ukrainians in exile
 * [Alexander von Humboldt Foundation](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/philipp-schwartz-initiative) ([update](https://www.humboldt-foundation.de/fileadmin/Bewerben/Programme/Philipp-Schwartz-Initiative/PSI_Special_provisions_Ukraine_25_Feb._2022.pdf), March 2022)
 * [German Research Foundation (DFG) | Німецькі дослідницькі фонди](https://www.dfg.de/en/research_funding/proposal_review_decision/refugee_researchers/index.html) ([expanded support](https://www.dfg.de/en/research_funding/announcements_proposals/2022/info_wissenschaft_22_17/index.html), March 2022)
