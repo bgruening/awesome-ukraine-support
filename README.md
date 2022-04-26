@@ -110,6 +110,10 @@ The following resources list laboratories that accept Ukrainian scientists and s
 * [Swiss National Science Foundation | Швейцарський національний науковий Фонд](https://www.snf.ch/en/WpOfVoVBYdBid6By/news/support-measures-for-scientists-from-ukraine)
 * [Swiss Society for Crystallography, Scholarship for Ukrainian students | Швейцарське товариство кристалографії, стипендії українським студентам](https://swiss-crystallography.ch/en/uuid/i/201a21c0-e302-59da-b9b5-f05ec595fbf5-Scholarship_for_Ukranian_students)
 
+### Hungary
+
+* [Students at Risk Subprogramme of the Stipendium Hungaricum Scholarship Programme](https://stipendiumhungaricum.hu/uploads/2020/03/StaR_Call_for_Applications_Ukrainian_citizens.pdf)
+
 ### United States | Сполучені Штати Америки
 
 * [Harvard University’s Scholars at Risk | науковці в небезпеці при Гарвардськомй університеті](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
