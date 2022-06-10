@@ -118,6 +118,7 @@ The following resources list laboratories that accept Ukrainian scientists and s
 ### United States | Сполучені Штати Америки
 
 * [Harvard University’s Scholars at Risk | науковці в небезпеці при Гарвардськомй університеті](https://harvardscholarsatrisk.harvard.edu/about-fellowship)
+* [University of Pennsylvania Emergency Fellowships for Graduate Students from Ukraine](https://rees.sas.upenn.edu/graduate/university-pennsylvania-emergency-fellowships-graduate-students-ukraine)
 
 ### International | Міжнародний
 
