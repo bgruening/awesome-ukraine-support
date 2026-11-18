@@ -1,3 +1,5 @@
+[![Link check](https://github.com/bgruening/awesome-ukraine-support/actions/workflows/check-links.yml/badge.svg?branch=main)](https://github.com/bgruening/awesome-ukraine-support/actions/workflows/check-links.yml?query=branch%3Amain)
+
 # Support for ukrainian researchers and students | Ресурси для украïнських вчених та студентів
 This site contains information about resources for Ukrainian researchers and students | Цей сайт містить інформацію щодо ресурсів для украïнських вчених та студентів
 

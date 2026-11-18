@@ -1,0 +1,68 @@
+name: Check links
+
+on:
+  push:
+    branches: [main]
+    paths: ["**.md", ".github/workflows/check-links.yml"]
+  pull_request:
+    paths: ["**.md", ".github/workflows/check-links.yml"]
+  schedule:
+    - cron: "17 6 * * 1"   # every Monday at 06:17 UTC
+  workflow_dispatch:        # manual run from the Actions tab
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  linkcheck:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check links with lychee
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          # 403/429 are mostly anti-bot or rate-limit responses, not dead pages.
+          # Social networks block automated checkers, so they are skipped.
+          args: >-
+            --no-progress
+            --max-retries 3
+            --retry-wait-time 5
+            --timeout 30
+            --accept 200..=299,403,429
+            --user-agent "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36"
+            --exclude "facebook\.com"
+            --exclude "instagram\.com"
+            --exclude "(twitter|x)\.com"
+            --exclude "linkedin\.com"
+            --exclude "t\.me"
+            README.md planning.md
+          fail: false
+          output: ./lychee/out.md
+
+      # Scheduled/manual runs: open one issue and keep updating it
+      - name: Find existing open issue
+        id: issue
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+                --search "Broken links report in:title" --json number -q '.[0].number')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Create or update issue
+        if: steps.lychee.outputs.exit_code != 0 && github.event_name != 'pull_request'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Broken links report
+          content-filepath: ./lychee/out.md
+          issue-number: ${{ steps.issue.outputs.number }}
+
+      # Mark the run as failed (red badge, red PR check) when links are broken.
+      # The full report is on the run's Summary page (written by lychee).
+      - name: Fail if links are broken
+        if: steps.lychee.outputs.exit_code != 0
+        run: exit 1
