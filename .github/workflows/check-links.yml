@@ -61,9 +61,8 @@ jobs:
           content-filepath: ./lychee/out.md
           issue-number: ${{ steps.issue.outputs.number }}
 
-      # Pull requests: fail the check so a newly added dead link is caught
-      - name: Fail PR if links are broken
-        if: steps.lychee.outputs.exit_code != 0 && github.event_name == 'pull_request'
-        run: |
-          cat ./lychee/out.md >> "$GITHUB_STEP_SUMMARY"
-          exit 1
+      # Mark the run as failed (red badge, red PR check) when links are broken.
+      # The full report is on the run's Summary page (written by lychee).
+      - name: Fail if links are broken
+        if: steps.lychee.outputs.exit_code != 0
+        run: exit 1
